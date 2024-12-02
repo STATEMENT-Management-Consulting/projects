@@ -47,7 +47,7 @@ The To-Do List Application is a productivity tool designed to help users manage 
 ---
 
 #### **Design Reference**
-- **Figma Design:** [To-Do List Design](https://www.figma.com/design/2krPyEsj4ePuyABOgQOxy7/ToDo-List-(Community)?node-id=0-1&node-type=canvas&t=KRHzVjvmq5u2sxAE-0)
+- **Figma Design:** [To-Do List Design](https://www.figma.com/community/file/1296097022795212613)
 
 This design serves as the blueprint for the application's user interface, ensuring a clean and user-friendly experience.
 
